@@ -1,13 +1,10 @@
 ## Title: Pet Health Bars
 ## Description: PHB
 ## Author: Acer
-## Version: 1.0
-## APIVersion: 100025
+## Version: 1.1
+## APIVersion: 101036
 ## SavedVariables: PHBVars
+## DependsOn: LibAddonMenu-2.0>=32
 
 PetHealthBars.lua
 PetHealthBarsGraphics.lua
-
-libs/LibStub/LibStub.lua
-libs/LibCustomTitles/LibCustomTitles.lua
-libs/LibAddonMenu-2.0.txt
